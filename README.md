@@ -1,6 +1,6 @@
 # Infrastructure as Code (IaC)
 
-This project demonstrates the use of Terraform to provision an AWS infrastructure that includes a Virtual Private Cloud (VPC), an EC2 instance, security groups, network interfaces, and Elastic IP allocation. The configuration automates the deployment of a secure and scalable environment, suitable for hosting web applications or services.
+This project demonstrates the use of Terraform to provision an AWS infrastructure that includes a Virtual Private Cloud (VPC), Route Tables, EC2 instance, security groups, network interfaces, and Elastic IP address. The configuration automates the deployment of a secure and scalable environment, suitable for hosting web applications or services.
 
 ![Flow chart](Terraform-Flow-Chart.png)
 
